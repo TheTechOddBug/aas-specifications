@@ -32,7 +32,7 @@ image::IDTA-01001.png[IDTA 01001, width=250, align=center]
 *Version:* v3.2.0
 
 [.text-center]
-link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.2.0/index.html[View, role="button", window=_blank]
+link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.2/index.html[View, role="button", window=_blank]
 
 a| 
 [.text-center]
@@ -46,7 +46,7 @@ image::IDTA-01002.png[IDTA 01002, width=250, align=center]
 *Version:* v3.2.0
 
 [.text-center]
-link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01002/v3.2.0/index.html[View, role="button", window=_blank]
+link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01002/v3.2/index.html[View, role="button", window=_blank]
 
 a| 
 [.text-center]
@@ -93,7 +93,7 @@ image::IDTA-01004.png[IDTA 01004, width=250, align=center]
 *Version:* v3.1.0
 
 [.text-center]
-link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01004/v3.1.0/index.html[View, role="button", window=_blank]
+link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01004/v3.1/index.html[View, role="button", window=_blank]
 
 a|
 [.text-center]
