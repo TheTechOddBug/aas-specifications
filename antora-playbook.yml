@@ -13,9 +13,10 @@ content:
       - IDTA-01001-3-0_antora_ref
       - IDTA-01001-3-0-1_antora_ref
       - IDTA-01001-3-0-2_antora_ref
-      - IDTA-01001-3-2_Working
       - IDTA-01001-3-1_final 
       - IDTA-01001-3-1-1_final
+      - IDTA-01001-3-3_Working
+      - IDTA-01001-3-1-2_final
       - master
       start-paths: documentation/IDTA-01001
     - url: https://github.com/admin-shell-io/aas-specs-api
@@ -24,10 +25,11 @@ content:
       - IDTA-01002-3-0-2_antora_ref
       - IDTA-01002-3-0-3_antora_ref
       - IDTA-01002-3-0-4_antora_ref
-      - IDTA-01002-3-2_working
       - IDTA-01002-3-1_final
       - IDTA-01002-3-1-1_final
       - IDTA-01002-3-1-2_final
+      - IDTA-01002-3-3_working
+      - IDTA-01002-3-1-3_final
       - main
       start-paths: documentation/IDTA-01002-3
     - url: https://github.com/admin-shell-io/aas-specs-iec61360
@@ -40,20 +42,23 @@ content:
       start-paths: documentation/IDTA-01003-a
     - url: https://github.com/admin-shell-io/aas-specs-measurement-units
       branches:
-      - IDTA-01003-b-3-0_Working
+      - IDTA-01003-b-3-1_Working
+      - main
       start-paths: documentation/IDTA-01003-b
     - url: https://github.com/admin-shell-io/aas-specs-security
       branches:
-      - IDTA-01004-3-1_Working
       - IDTA-01004-3-0-1_Final
       - IDTA-01004-3-0_Final
+      - IDTA-01004-3-2_Working
+      - IDTA-01004-3-0-2_Final
       - main
       start-paths: documentation/IDTA-01004
     - url: https://github.com/admin-shell-io/aas-specs-aasx
       branches:
       - IDTA-01005-3-0_antora_ref
       - IDTA-01005-3-0-1_antora_ref
-      - IDTA-01005-3-2_Working
+      - IDTA-01005-3-3_Working
+      - IDTA-01005-3-1_final
       - main
       start-paths: documentation/IDTA-01005
 
